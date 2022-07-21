@@ -142,7 +142,6 @@ function spawnEnemies() {
     }, 1000);
 }
 
-
 let animationId;
 let score = 0;
 // Animate function executed recursively
