@@ -1,4 +1,4 @@
-<h1>JS Shooting Game (Exercise OOP, WCS CDA Java)</h1>
+<h1>JS Shooting Game (Quest JS OOP, WCS CDA Java)</h1>
 
 ### A quest where we need to create a game by using JavaScript
 
